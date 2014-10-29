@@ -1,0 +1,18 @@
+{
+  "name": "abril-fatface",
+  "version": "0.0.0",
+  "description": "Abril Fatface Font",
+  "keywords": [
+    "abril fatface",
+    "font",
+    "brick",
+    "web",
+    "browser"
+  ],
+  "repository": {
+    "url": "git@github.com:bricks/abril-fatface.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD"
+}
